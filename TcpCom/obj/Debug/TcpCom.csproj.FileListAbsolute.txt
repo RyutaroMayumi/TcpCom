@@ -1,0 +1,14 @@
+d:\users\kc-isd3d\documents\visual studio 2015\Projects\TcpCom\TcpCom\bin\Debug\TcpCom.exe.config
+d:\users\kc-isd3d\documents\visual studio 2015\Projects\TcpCom\TcpCom\bin\Debug\TcpCom.exe
+d:\users\kc-isd3d\documents\visual studio 2015\Projects\TcpCom\TcpCom\bin\Debug\TcpCom.pdb
+d:\users\kc-isd3d\documents\visual studio 2015\Projects\TcpCom\TcpCom\obj\Debug\TcpCom.csprojResolveAssemblyReference.cache
+d:\users\kc-isd3d\documents\visual studio 2015\Projects\TcpCom\TcpCom\obj\Debug\MainWindow.g.cs
+d:\users\kc-isd3d\documents\visual studio 2015\Projects\TcpCom\TcpCom\obj\Debug\App.g.cs
+d:\users\kc-isd3d\documents\visual studio 2015\Projects\TcpCom\TcpCom\obj\Debug\TcpCom_MarkupCompile.cache
+d:\users\kc-isd3d\documents\visual studio 2015\Projects\TcpCom\TcpCom\obj\Debug\TcpCom_MarkupCompile.lref
+d:\users\kc-isd3d\documents\visual studio 2015\Projects\TcpCom\TcpCom\obj\Debug\MainWindow.baml
+d:\users\kc-isd3d\documents\visual studio 2015\Projects\TcpCom\TcpCom\obj\Debug\TcpCom.g.resources
+d:\users\kc-isd3d\documents\visual studio 2015\Projects\TcpCom\TcpCom\obj\Debug\TcpCom.Properties.Resources.resources
+d:\users\kc-isd3d\documents\visual studio 2015\Projects\TcpCom\TcpCom\obj\Debug\TcpCom.csproj.GenerateResource.Cache
+d:\users\kc-isd3d\documents\visual studio 2015\Projects\TcpCom\TcpCom\obj\Debug\TcpCom.exe
+d:\users\kc-isd3d\documents\visual studio 2015\Projects\TcpCom\TcpCom\obj\Debug\TcpCom.pdb
